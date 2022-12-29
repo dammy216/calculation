@@ -1,0 +1,21 @@
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.subject{
+    width: 180px;
+    color: white;
+    background-color: black;
+}
+.totalTable td {
+    height: 58px;
+}
+
+.totalSubject{
+    width: 230px;
+    color: white;
+    background-color: black;
+}
